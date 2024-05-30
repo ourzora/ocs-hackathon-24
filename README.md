@@ -2,7 +2,7 @@
 
 [Zora](https://zora.co) is sponsoring in the Creator Track of the [Onchain Summer Buildathon](https://onchain-summer.devfolio.co/overview)
 
-Zora’s mission is to make creating on the internet free and valuable by building products for people to be more supported and valued for their creativity. As the Creator track sponsor, we are looking for projects that help users Create, Collect, and Curate using the Zora Protocol. Projects are judged based on innovation, usefulness, UX, and technical quality, and **must be built using the Zora Contacts or developer tools.**
+Zora’s mission is to make creating on the internet free and valuable by building products for people to be more supported and valued for their creativity. As the Creator track sponsor, we are looking for projects that help users Create, Collect, and Curate using the Zora Protocol. Projects are judged based on innovation, usefulness, UX, and technical quality, and must be built on the Zora Protocol.
 
 We are looking for:
 
