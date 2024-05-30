@@ -1,4 +1,4 @@
-# Zora Onchain Summer 2024 Hackathon Guide
+# Zora 🌜🌞🌛 Onchain Summer 2024 Hackathon Guide
 
 [Zora](https://zora.co) is sponsoring in the Creator Track of the [Onchain Summer Buildathon](https://onchain-summer.devfolio.co/overview), with 20 ETH in Prizes.
 
