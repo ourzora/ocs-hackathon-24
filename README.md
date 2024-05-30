@@ -2,9 +2,12 @@
 
 Intro goes here
 
-For any questions, support or discussion, please post an issue in this repo [here](https://github.com/ourzora/zora-ocs-hackathon-24/issues) - the Zora team will be regularly checking and responding to these issues.
+For any questions, support or discussion, please [post an issue in this repo here](https://github.com/ourzora/zora-ocs-hackathon-24/issues) - the Zora team will be regularly checking these issues and responding to them.
 
-## About Zora
+- About Zora: [zora.co/about](https://zora.co/about)
+- Zora Developer Docs: [docs.zora.co](https://docs.zora.co/)
+- Zora Developer Tools Docs: [ourzora.github.io/zora-protocol](https://ourzora.github.io/zora-protocol)
+- Zora Protocol Github: [github.com/ourzora/zora-protocol](https://github.com/ourzora/zora-protocol)
 
 ## Hackathon Bounties & Rules
 
@@ -26,5 +29,3 @@ We are looking for projects that help users create, collect, and curate on the Z
 - **Imagine - 3 eth** Weird, crazy, wild ideas we didn’t imagine were possible.
 
 **Honorable Mention - 2 ETH divided equally** among projects we like that didn’t make it to the top prizes. All must be built on top of the Zora contracts or developer tools.
-
-## Useful Links
