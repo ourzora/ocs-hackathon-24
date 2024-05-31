@@ -26,8 +26,9 @@ For any questions, support or discussion, please [post an issue in this repo her
 3 ETH to one winner in each of theses tracks:
 
 - **Create - 3 ETH** New tools/products/mediums that serve creators; new forms of media (scripts/screenplays, fonts, recipes), incentivization models, user interfaces, collaboration mechanisms, remixing/forking, onboarding flows, Meme templates, multichain tokens
-- **Collect - 3 ETH** New ways to collect; minting user interfaces, minting mechanisms, pricing models, cross-chain collecting
-- **Curate - 3 ETH** New ways to display, curate, and discover mints on the Zora Protocol.
+- **Collect - 3 ETH** New ways to collect; minting user interfaces, minting mechanisms, pricing models, cross-chain collecting, smart wallet based minting.
+- **Curate/Discover- 3 ETH** New ways to display, curate, and discover onchain content; tools for building exhibitions, networks of content around social graphs, medium specific discovery, content curation, Are.na for nfts
+
 - **Imagine - 3 ETH** Weird, crazy, wild ideas we didn’t imagine were possible.
 
 **Honorable Mention - 2 ETH divided equally** among projects we like that didn’t make it to the top prizes.
