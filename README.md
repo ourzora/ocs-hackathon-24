@@ -2,7 +2,7 @@
 
 [Zora](https://zora.co) is sponsoring in the Creator Track of the [Onchain Summer Buildathon](https://onchain-summer.devfolio.co/overview), with 20 ETH in Prizes.
 
-Zora’s mission is to make creating on the internet free and valuable by building products for people to be more supported and valued for their creativity. As the Creator track sponsor, we are looking for projects that help users Create, Collect, and Curate using the Zora Protocol. Projects are judged based on innovation, usefulness, UX, and technical quality, and must be built on the Zora Protocol.
+Zora’s mission is to make creating on the internet free and valuable by building products for people to be more supported and valued for their creativity. As the Creator track sponsor, we are looking for projects that help users Create, Collect, and Curate using the Zora Protocol. Projects are judged based on innovation, usefulness, UX, and technical quality.
 
 We are looking for:
 
@@ -17,7 +17,6 @@ For any questions, support or discussion, please [post an issue in this repo her
 - About Zora: [zora.co/about](https://zora.co/about)
 - Onchain Summer Buildathon: [onchain-summer.devfolio.co](https://onchain-summer.devfolio.co/)
 - Zora Developer Docs: [docs.zora.co](https://docs.zora.co/)
-- Zora Developer Tools Docs: [ourzora.github.io/zora-protocol](https://ourzora.github.io/zora-protocol)
 - Zora Protocol Github: [github.com/ourzora/zora-protocol](https://github.com/ourzora/zora-protocol)
 
 ## Zora Creator Track Bounties
@@ -33,7 +32,7 @@ For any questions, support or discussion, please [post an issue in this repo her
 
 **Honorable Mention - 2 ETH divided equally** among projects we like that didn’t make it to the top prizes. All must be built on top of the Zora contracts or developer tools.
 
-To qualify for any bounty, you must build your project on the Zora Protocol. This includes our contracts, developer tools, and subgraph.
+Project are encouraged to be built on the Zora Protocol. This includes our contracts, developer tools, and subgraph.
 
 ### Ideas
 
