@@ -25,7 +25,7 @@ For any questions, support or discussion, please [post an issue in this repo her
 
 3 ETH to one winner in each of theses tracks:
 
-- **Create - 3 ETH** New tools/products/mediums that serve creators; new forms of media (scripts/screenplays, fonts, recipes), incentivization models, user interfaces, collaboration mechanisms, onboarding flows, Meme templates, multichain tokens
+- **Create - 3 ETH** New tools/products/mediums that serve creators; new forms of media (scripts/screenplays, fonts, recipes), incentivization models, user interfaces, collaboration mechanisms, remixing/forking, onboarding flows, Meme templates, multichain tokens
 - **Collect - 3 ETH** New ways to collect; minting user interfaces, minting mechanisms, pricing models, cross-chain collecting
 - **Curate - 3 ETH** New ways to display, curate, and discover mints on the Zora Protocol.
 - **Imagine - 3 ETH** Weird, crazy, wild ideas we didn’t imagine were possible.
