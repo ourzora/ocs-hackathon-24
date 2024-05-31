@@ -30,7 +30,7 @@ For any questions, support or discussion, please [post an issue in this repo her
 - **Curate - 3 ETH** New ways to display, curate, and discover mints on the Zora Protocol.
 - **Imagine - 3 ETH** Weird, crazy, wild ideas we didn’t imagine were possible.
 
-**Honorable Mention - 2 ETH divided equally** among projects we like that didn’t make it to the top prizes. All must be built on top of the Zora contracts or developer tools.
+**Honorable Mention - 2 ETH divided equally** among projects we like that didn’t make it to the top prizes.
 
 Project are encouraged to be built on the Zora Protocol. This includes our contracts, developer tools, and subgraph.
 
