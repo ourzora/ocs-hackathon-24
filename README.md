@@ -19,6 +19,7 @@ For any questions, support or discussion, please [post an issue in this repo her
 - Zora Developer Docs: [docs.zora.co](https://docs.zora.co/)
 - Zora Protocol Github: [github.com/ourzora/zora-protocol](https://github.com/ourzora/zora-protocol)
 
+
 ## Zora Creator Track Bounties
 
 **Grand prize (1) winner - 6 ETH** our favorite project
@@ -35,6 +36,11 @@ For any questions, support or discussion, please [post an issue in this repo her
 
 Project are encouraged to be built on the Zora Protocol. This includes our contracts, developer tools, and subgraph.
 
-### Ideas
+## Protocol Rewards for Apps
+Projects can permissionlessly plug into Zora's Protocol Rewards model and start earning rewards for driving mints in their app. [Here's how it works.](https://docs.zora.co/docs/smart-contracts/creator-tools/rewards#create-referral-reward)
+
+Teams behind Warpcast, Rainbow, Layer3 and Daylight are currently earning thousands of dollars. We would love to see your exciting project earn rewards the same way!
+
+## Ideas
 
 ![Inspiration](./jacobCast.png)
