@@ -17,6 +17,7 @@ For any questions, support or discussion, please [post an issue in this repo her
 - About Zora: [zora.co/about](https://zora.co/about)
 - Onchain Summer Buildathon: [onchain-summer.devfolio.co](https://onchain-summer.devfolio.co/)
 - Zora Developer Tools Docs (SDK & protocol-deployments): [ourzora.github.io/zora-protocol](https://ourzora.github.io/zora-protocol/)
+- Slides from our Technical Workshop: [ZoraOCSTechnicalWorkshop-Slides.pdf](./ZoraOCSTechnicalWorkshop-Slides.pdf)
 - Zora Developer Docs: [docs.zora.co](https://docs.zora.co/)
 - Zora Protocol Github: [github.com/ourzora/zora-protocol](https://github.com/ourzora/zora-protocol)
 
